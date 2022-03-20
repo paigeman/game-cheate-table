@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="38">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>4</ID>
+      <Description>"手雷"</Description>
+      <LastState Value="7" Activated="1" RealAddress="12B0F634"/>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>Byte</VariableType>
+      <Address>mslug3.exe+F0D20</Address>
+      <Offsets>
+        <Offset>0000EAF4</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>7</ID>
+      <Description>"子弹"</Description>
+      <LastState Value="33" Activated="1" RealAddress="12B0F63A"/>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>mslug3.exe+F0D24</Address>
+      <Offsets>
+        <Offset>EAFA</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>11</ID>
+      <Description>"生命"</Description>
+      <LastState Value="3" Activated="1" RealAddress="12B00DFA"/>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>Byte</VariableType>
+      <Address>mslug3.exe+F0D20</Address>
+      <Offsets>
+        <Offset>000002BA</Offset>
+      </Offsets>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
